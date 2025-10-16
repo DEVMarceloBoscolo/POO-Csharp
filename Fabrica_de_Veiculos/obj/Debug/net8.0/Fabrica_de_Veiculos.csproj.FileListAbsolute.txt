@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\curso c#\Fabrica_de_Veiculos\obj\Debug\net8.0\Fabrica_de_Veiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\curso c#\Fabrica_de_Veiculos\obj\Debug\net8.0\Fabrica_de_Veiculos.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\curso c#\Fabrica_de_Veiculos\obj\Debug\net8.0\Fabrica_de_Veiculos.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\curso c#\Fabrica_de_Veiculos\obj\Debug\net8.0\Fabrica_de_Veiculos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\curso c#\Fabrica_de_Veiculos\bin\Debug\net8.0\Fabrica_de_Veiculos.exe
+C:\Users\Aluno\Desktop\curso c#\Fabrica_de_Veiculos\bin\Debug\net8.0\Fabrica_de_Veiculos.deps.json
+C:\Users\Aluno\Desktop\curso c#\Fabrica_de_Veiculos\bin\Debug\net8.0\Fabrica_de_Veiculos.runtimeconfig.json
+C:\Users\Aluno\Desktop\curso c#\Fabrica_de_Veiculos\bin\Debug\net8.0\Fabrica_de_Veiculos.dll
+C:\Users\Aluno\Desktop\curso c#\Fabrica_de_Veiculos\bin\Debug\net8.0\Fabrica_de_Veiculos.pdb
+C:\Users\Aluno\Desktop\curso c#\Fabrica_de_Veiculos\obj\Debug\net8.0\Fabrica_de_Veiculos.dll
+C:\Users\Aluno\Desktop\curso c#\Fabrica_de_Veiculos\obj\Debug\net8.0\refint\Fabrica_de_Veiculos.dll
+C:\Users\Aluno\Desktop\curso c#\Fabrica_de_Veiculos\obj\Debug\net8.0\Fabrica_de_Veiculos.pdb
+C:\Users\Aluno\Desktop\curso c#\Fabrica_de_Veiculos\obj\Debug\net8.0\Fabrica_de_Veiculos.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\curso c#\Fabrica_de_Veiculos\obj\Debug\net8.0\ref\Fabrica_de_Veiculos.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Fabrica_de_Veiculos/1.0.0": {
+        "runtime": {
+          "Fabrica_de_Veiculos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fabrica_de_Veiculos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

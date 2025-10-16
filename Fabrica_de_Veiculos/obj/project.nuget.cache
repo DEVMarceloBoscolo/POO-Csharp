@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XD78t44Z3yY=",
+  "success": true,
+  "projectFilePath": "/Users/marcelosantos/Desktop/Fabrica_de_Veiculos/Fabrica_de_Veiculos.csproj",
+  "expectedPackageFiles": [
+    "/Users/marcelosantos/.nuget/packages/microsoft.netcore.app.ref/8.0.20/microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "/Users/marcelosantos/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.20/microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
+    "/Users/marcelosantos/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.20/microsoft.netcore.app.host.osx-arm64.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
